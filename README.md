@@ -1,2 +1,2 @@
 # zstate
-Redis state managment from kafka streams 
+Redis state managment from a timestamp stream
